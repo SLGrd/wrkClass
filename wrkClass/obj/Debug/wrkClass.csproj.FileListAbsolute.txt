@@ -1,0 +1,9 @@
+C:\Tutoriais\WrkClass\wrkClass\bin\Debug\wrkClass.exe.config
+C:\Tutoriais\WrkClass\wrkClass\bin\Debug\wrkClass.exe
+C:\Tutoriais\WrkClass\wrkClass\bin\Debug\wrkClass.pdb
+C:\Tutoriais\WrkClass\wrkClass\obj\Debug\wrkClass.FrmClass.resources
+C:\Tutoriais\WrkClass\wrkClass\obj\Debug\wrkClass.Properties.Resources.resources
+C:\Tutoriais\WrkClass\wrkClass\obj\Debug\wrkClass.csproj.GenerateResource.cache
+C:\Tutoriais\WrkClass\wrkClass\obj\Debug\wrkClass.exe
+C:\Tutoriais\WrkClass\wrkClass\obj\Debug\wrkClass.pdb
+C:\Tutoriais\WrkClass\wrkClass\obj\Debug\wrkClass.csprojAssemblyReference.cache

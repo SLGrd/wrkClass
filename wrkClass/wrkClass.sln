@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wrkClass", "wrkClass.csproj", "{ECEB551E-BA19-45D1-ADCA-74385ED1FE0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5A49D922-6F1D-42DE-918F-AAC08F2407BB}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEB551E-BA19-45D1-ADCA-74385ED1FE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEB551E-BA19-45D1-ADCA-74385ED1FE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEB551E-BA19-45D1-ADCA-74385ED1FE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEB551E-BA19-45D1-ADCA-74385ED1FE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CE3583-41FA-49E9-83D2-AFEA6EB89C62}
+	EndGlobalSection
+EndGlobal
